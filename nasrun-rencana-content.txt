@@ -4,6 +4,7 @@ RENCANA KONTEN NASRUN
  * navbar
  * body
   ^ img
+  ^ video
 - html 5
 - css
   ^ font style
