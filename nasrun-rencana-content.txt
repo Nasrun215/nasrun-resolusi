@@ -5,3 +5,4 @@ RENCANA KONTEN NASRUN
  * body
 - html 5
 - css
+- java script
