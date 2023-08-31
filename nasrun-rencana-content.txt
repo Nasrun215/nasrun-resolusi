@@ -3,6 +3,7 @@ RENCANA KONTEN NASRUN
 - html
  * navbar
  * body
-- html 5
+  ^ color
 - css
+  ^ color family
 - java script
