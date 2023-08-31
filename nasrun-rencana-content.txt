@@ -3,6 +3,10 @@ RENCANA KONTEN NASRUN
 - html
  * navbar
  * body
+  ^ img
+  ^ video
 - html 5
 - css
+  ^ font style
 - java script
+- git
